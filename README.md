@@ -36,6 +36,8 @@
 <br />
 <br />
 
+![Yash's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=yash1200&show_icons=true&line_height=21&show_icons=true&theme=vue)
+
 [website]: https://yash1200.github.io/#/
 [twitter]: https://twitter.com/YashJohri17
 [instagram]: https://www.instagram.com/just_johri/
