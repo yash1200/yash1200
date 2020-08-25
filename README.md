@@ -15,6 +15,7 @@
 [<img align="left" alt="yash1200 | Medium" width="30px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-3.png" />][medium]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -33,6 +34,7 @@
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 
+<br />
 <br />
 <br />
 
