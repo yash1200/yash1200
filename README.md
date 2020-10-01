@@ -30,8 +30,6 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
-<img align="left" alt="Arch Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/archlinux/archlinux.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 
 <br />
