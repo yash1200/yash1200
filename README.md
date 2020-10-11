@@ -23,7 +23,6 @@
 <img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
 <img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 <img align="left" alt="Node JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <img align="left" alt="Mongo DB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
