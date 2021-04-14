@@ -31,6 +31,7 @@
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />
 <img align="left" alt="Java" width="30px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
