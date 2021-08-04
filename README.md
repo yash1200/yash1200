@@ -41,7 +41,7 @@
 <br />
 <br />
 
-![Yash's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=yash1200&count_private=true&show_icons=true&include_all_commits=true)
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash1200&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
 [website]: https://yash1200.github.io/#/
 [twitter]: https://twitter.com/YashJohri17
