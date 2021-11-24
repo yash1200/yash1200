@@ -1,17 +1,13 @@
-### Hi there, I'm Yash Johri - aka [yash1200][website] 👋
+### Hi there!
 
-## I'm a Full Stack Developer!
-- 🔭 I’m currently working on sharping my skills.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+### I'm Yash Johri, a Full Stack Developer (SDE@AfterShoot)
 
 ### Connect with me:
 
-[<img align="left" alt="yash1200.github.io" width="30px" src="https://image.flaticon.com/icons/svg/2920/2920277.svg" />][website]
-[<img align="left" alt="yash1200 | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
+<!-- [<img align="left" alt="yash1200.github.io" width="30px" src="https://image.flaticon.com/icons/svg/2920/2920277.svg" />][website] -->
+[<img align="left" alt="yash1200 | Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="yash1200 | LinkedIn" width="30px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
-[<img align="left" alt="yash1200 | Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
+[<img align="left" alt="yash1200 | Instagram" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/instagram/instagram.png" />][instagram]
 [<img align="left" alt="yash1200 | Medium" width="30px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-3.png" />][medium]
 
 <br />
@@ -30,7 +26,7 @@
 <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />
-<img align="left" alt="Java" width="30px" src="https://image.flaticon.com/icons/svg/226/226777.svg" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
 <img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
