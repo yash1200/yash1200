@@ -1,6 +1,6 @@
 ### Hi there!
 
-### I'm Yash Johri, a Full Stack Developer (SDE@AfterShoot)
+### I'm Yash Johri, a Full Stack Developer (SDE@[AfterShoot][company])
 
 ### Connect with me:
 
@@ -40,6 +40,7 @@
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash1200&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
 [website]: https://yash1200.github.io/#/
+[company]: https://github.com/aftershootco
 [twitter]: https://twitter.com/YashJohri17
 [instagram]: https://www.instagram.com/just_johri/
 [linkedin]: https://www.linkedin.com/in/yash-johri-61014717b/
