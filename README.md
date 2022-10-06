@@ -1,4 +1,4 @@
-### Hi there!
+# Hi there!
 
 ### I'm Yash Johri, a Full Stack Developer (SDE@[AfterShoot][company])
 
@@ -8,19 +8,22 @@
 [<img align="left" alt="yash1200 | Twitter" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="yash1200 | LinkedIn" width="30px" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
 [<img align="left" alt="yash1200 | Instagram" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/instagram/instagram.png" />][instagram]
-[<img align="left" alt="yash1200 | Medium" width="30px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-3.png" />][medium]
+[<img align="left" alt="yash1200 | Medium" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/medium/medium.png" />][medium]
 
 <br />
 <br />
 
-### Languages and Tools:
+### Tech Stack:
 
 <img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />
-<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Svelte" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" />
 <img align="left" alt="Electron" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/electron/electron.png" />
 <img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 <img align="left" alt="Nuxt" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png" />
+<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
+<img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png" />
+<img align="left" alt="Tailwind" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" />
 <img align="left" alt="Node JS" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Mongo DB" width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
