@@ -15,12 +15,30 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,react,redux,vue,nuxtjs,svelte,electron,tailwind,androidstudio,ts,js,nodejs,mongodb,firebase,py,java,cpp,linux,git&perline=10&theme=light" />
-    <img alt="Flutter, Dart, React, Redux, Vue, Nuxt, Svelte, Electron, Tailwind, Android, TypeScript, JavaScript, Node.js, MongoDB, Firebase, Python, Java, C++, Linux, Git" src="https://skillicons.dev/icons?i=flutter,dart,react,redux,vue,nuxtjs,svelte,electron,tailwind,androidstudio,ts,js,nodejs,mongodb,firebase,py,java,cpp,linux,git&perline=10&theme=dark" />
-  </picture>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,py,go,rust,cpp,dart,java&theme=light" /><img alt="JavaScript, TypeScript, Python, Go, Rust, C++, Dart, Java" src="https://skillicons.dev/icons?i=js,ts,py,go,rust,cpp,dart,java&theme=dark" height="40" /></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,svelte,flutter,electron,tauri,tailwind,vite,webpack&theme=light" /><img alt="React, Next.js, Svelte, Flutter, Electron, Tauri, Tailwind, Vite, Webpack" src="https://skillicons.dev/icons?i=react,nextjs,svelte,flutter,electron,tauri,tailwind,vite,webpack&theme=dark" height="40" /></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mongodb&theme=light" /><img alt="Node.js, NestJS, Express, FastAPI, PostgreSQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mongodb&theme=dark" height="40" /></picture><br /><sub>+ Dgraph · SQL</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI &amp; ML</b></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="40" /></picture><br /><sub>LLM agents · RAG · LoRA fine-tuning · TTS / ASR · LTX video</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; DevOps</b></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,firebase,nginx&theme=light" /><img alt="AWS, GCP, Firebase, nginx" src="https://skillicons.dev/icons?i=aws,gcp,firebase,nginx&theme=dark" height="40" /></picture><br /><sub>+ PM2 · GPU VMs (H100 / A100)</sub></td>
+  </tr>
+</table>
+</div>
 
 <br />
 
