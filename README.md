@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mongodb&theme=light" /><img alt="Node.js, NestJS, Express, FastAPI, PostgreSQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mongodb&theme=dark" height="40" /></picture><br /><sub>+ Dgraph · SQL</sub></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mysql,mongodb&theme=light" /><img alt="Node.js, NestJS, Express, FastAPI, PostgreSQL, MySQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mysql,mongodb&theme=dark" height="40" /></picture></td>
   </tr>
   <tr>
     <td align="right"><b>AI &amp; ML</b></td>
