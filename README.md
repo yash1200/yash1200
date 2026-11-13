@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yash Johri 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> &nbsp;·&nbsp; SDE @ <a href="https://github.com/aftershootco">Arise</a>
+  <b>Full Stack Developer</b> &nbsp;·&nbsp; SDE @ <a href="https://github.com/arise-all">Arise</a>
 </p>
 
 <p align="center">
