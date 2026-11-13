@@ -1,7 +1,11 @@
-<h1 align="center">Hi there, I'm Yash Johri 👋</h1>
+<img width="100%" alt="Hi there, I'm Yash — Full Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:2AA198&height=220&section=header&text=Hi%20there,%20I%27m%20Yash&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=56&animation=fadeIn" />
 
 <p align="center">
-  <b>Full Stack Developer</b> &nbsp;·&nbsp; SDE @ <a href="https://github.com/arise-all">Arise</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="Full-stack & AI engineer · 5+ years building web, desktop & AI products · Two-time ACM-ICPC Regionalist · Flutter open-source contributor" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2AA198&center=true&vCenter=true&width=520&height=40&lines=Full-stack+%26+AI+engineer;5%2B+years+building+web%2C+desktop+%26+AI+products;Two-time+ACM-ICPC+Regionalist;Flutter+open-source+contributor" /></a>
+</p>
+
+<p align="center">
+  SDE @ <a href="https://github.com/arise-all">Arise</a>
 </p>
 
 <p align="center">
@@ -40,3 +44,5 @@
 </table>
 </div>
 <!-- Website: https://yash1200.github.io/#/ -->
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:2AA198&height=120&section=footer" />
