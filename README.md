@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td align="right"><b>Cloud &amp; DevOps</b></td>
-    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,firebase,nginx&theme=light" /><img alt="AWS, GCP, Firebase, nginx" src="https://skillicons.dev/icons?i=aws,gcp,firebase,nginx&theme=dark" height="40" /></picture><br /><sub>+ PM2 · GPU VMs (H100 / A100)</sub></td>
+    <td><picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,firebase,nginx&theme=light" /><img alt="AWS, GCP, Firebase, nginx" src="https://skillicons.dev/icons?i=aws,gcp,firebase,nginx&theme=dark" height="40" /></picture></td>
   </tr>
 </table>
 </div>
