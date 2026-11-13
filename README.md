@@ -1,6 +1,6 @@
 # Hi there!
 
-### I'm Yash Johri, a Full Stack Developer (SDE@[AfterShoot][company])
+### I'm Yash Johri, a Full Stack Developer (SDE@[Arise][company])
 
 ### Connect with me:
 
