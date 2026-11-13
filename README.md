@@ -39,16 +39,4 @@
   </tr>
 </table>
 </div>
-
-<br />
-
-<h3 align="center">GitHub Activity</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yash1200&theme=github-dark-blue&hide_border=true" />
-    <img alt="Yash's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=yash1200&theme=default&hide_border=true" />
-  </picture>
-</p>
-
 <!-- Website: https://yash1200.github.io/#/ -->
